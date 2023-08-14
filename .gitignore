@@ -2,6 +2,7 @@
 .idea/
 .idea
 **/.terraform/*
+.DS_Store
 
 # .tfstate files
 *.tfstate
